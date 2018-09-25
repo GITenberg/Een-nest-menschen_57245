@@ -5,12 +5,17 @@ contributor:
     agent_name: Pieter J. Tideman (1871-1943)
     gutenberg_agent_id: '49271'
     url: http://www.gutenberg.org/2009/agents/49271
+covers:
+- cover_type: archival
+  image_path: 57245-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Groeningen, August Pieter van
     gutenberg_agent_id: '49270'
     url: http://www.gutenberg.org/2009/agents/49270
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57245#Een-nest-menschen
 gutenberg_issued: '2018-05-31'
 gutenberg_type: Text
 identifiers:
